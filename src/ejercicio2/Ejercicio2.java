@@ -18,6 +18,7 @@ public class Ejercicio2 {
        System.out.println("hola mundo");
         // TODO code application logic here
        System.out.println("hola dayana");
+         System.out.println("hola otravez");
     }
     
 }
